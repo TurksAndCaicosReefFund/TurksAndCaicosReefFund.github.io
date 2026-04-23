@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+
+data/too_large_files/
+data/confidential/
